@@ -1,3 +1,8 @@
+/*  Creado por Sebastian Olave y Jaime Barraza 
+    para POO I - Desarrollo de aplicaciones 
+    Duoc UC
+*/
+
 
 package cl.duoc.usuario;
 
